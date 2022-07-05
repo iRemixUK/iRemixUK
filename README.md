@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iRemixUK
+- 👋 Hi, I’m Aaron!
 - 👀 I’m interested in creating games and expanding my knowledge of C++ 
 - 🌱 I’m currently studying Computer Game Applications Development @ Abertay University
 - 💞️ I’m looking to collaborate on anything at the moment
